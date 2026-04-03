@@ -9,17 +9,17 @@ function Contact() {
 
         <div className="contact-card">
           <p>
-            <strong>Email:</strong> yourname@email.com
+            <strong>Email:</strong> jennythao117@gmail.com
           </p>
           <p>
-            <strong>LinkedIn:</strong>{' '}
-            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-              View Profile
+            <strong>Resume:</strong>{' '}
+             <a href="/VoJennyResume2026.pdf" target="_blank" rel="noreferrer">
+              View Resume
             </a>
           </p>
           <p>
             <strong>GitHub:</strong>{' '}
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <a href="https://github.com/jennyvooo" target="_blank" rel="noreferrer">
               View GitHub
             </a>
           </p>

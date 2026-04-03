@@ -46,8 +46,9 @@ img {
 }
 
 .navbar {
-  background-color: #ffffff;
+  background-color: #132c61;
   border-bottom: 1px solid #ddd;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   position: sticky;
   top: 0;
   z-index: 10;
@@ -64,6 +65,7 @@ img {
 .logo {
   font-size: 1.3rem;
   font-weight: bold;
+  color: #ffffff;
 }
 
 .nav-links {
@@ -74,10 +76,11 @@ img {
 
 .nav-links a {
   padding-bottom: 0.2rem;
+  color: #ffffff;
 }
 
 .nav-links a.active {
-  border-bottom: 2px solid #2563eb;
+  border-bottom: 2px solid #ffffff;
 }
 
 .hero-grid {
@@ -178,14 +181,16 @@ h2 {
 }
 
 .footer {
-  background-color: #ffffff;
+  background-color: #132c61;
   border-top: 1px solid #ddd;
+  box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.15);
   padding: 1.25rem 0;
   margin-top: 2rem;
 }
 
 .footer-inner {
   text-align: center;
+  color: #ffffff;
 }
 
 @media (max-width: 800px) {
