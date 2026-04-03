@@ -52,7 +52,7 @@ const projects = [
   {
     title: 'Orlando Stamp Project',
     category: 'Graphic Design',
-    medium: 'Graphic Design, Mockup Design',
+    medium: 'Photoshop, Mockup Design',
     description:
       'A stamp design created for the city of Orlando, along with mockup images showing how the design could appear in presentation materials.',
     images: [
@@ -68,7 +68,7 @@ const projects = [
   {
     title: 'Grenadier Graphics',
     category: 'Graphic Design',
-    medium: 'Branding, Stylescape',
+    medium: 'Photoshop, Branding, Stylescape',
     description:
       'A stylescape created for a high school graphic design branding project. It explores visual identity, brand mood, and design direction.',
     images: ['/images/grenadier-graphics.jpg'],
@@ -92,7 +92,7 @@ const projects = [
   {
     title: 'HouRewards Logo Design',
     category: 'Graphic Design',
-    medium: 'Logo Design, Branding',
+    medium: 'Photoshop, Logo Design, Branding',
     description:
       'A logo and mockup series created for a team project concept called HouRewards, an app designed to help students track volunteering hours for scholarship opportunities.',
     images: [
@@ -108,9 +108,9 @@ const projects = [
   {
     title: 'Dark Memories',
     category: 'Traditional Art',
-    medium: 'Charcoal Drawing',
+    medium: 'Charcoal on Newsprint',
     description:
-      'A charcoal drawing that explores contrast, atmosphere, and hand-rendered detail through traditional media.',
+      'Realistic charcoal drawing of a skeleton model. Dark values were used to emphasize a deeper, somber feeling.',
     images: ['/images/dark-memories.jpg'],
     figmaLink: '',
     liveLink: '',
@@ -120,9 +120,9 @@ const projects = [
   {
     title: 'Metamorphic',
     category: 'Traditional Art',
-    medium: 'Charcoal Drawing',
+    medium: 'Charcoal on Newsprint',
     description:
-      'A charcoal drawing focused on transformation, texture, and visual depth through observational rendering techniques.',
+      'Realistic charcoal drawing of an animal skull placed on top of a human skeleton. Custom composition of the model was used to complete this work.',
     images: ['/images/metamorphic.jpg'],
     figmaLink: '',
     liveLink: '',
@@ -132,7 +132,7 @@ const projects = [
   {
     title: 'Self Portrait',
     category: 'Traditional Art',
-    medium: 'Charcoal Drawing',
+    medium: 'Charcoal on Newsprint',
     description:
       'A self-portrait created in charcoal that demonstrates observation, shading, and realism through traditional drawing methods.',
     images: ['/images/self-portrait.jpg'],
@@ -144,7 +144,7 @@ const projects = [
   {
     title: 'The Boxes Lie',
     category: '3D Design',
-    medium: '3D Design, Sculpture',
+    medium: 'Wood, Acrylic, 3D Design, Sculpture',
     description:
       'A stack of realistic cardboard boxes made from wood, inspired by Andy Warhol’s Brillo Box sculptures and focused on illusion, form, and material transformation.',
     images: [
