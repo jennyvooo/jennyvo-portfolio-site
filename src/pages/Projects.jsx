@@ -170,15 +170,15 @@ const projects = [
     featured: true
   },
   {
-    title: 'Moonlight Matcha',
+    title: 'Moonlight Matcha Order App',
     category: 'UX/UI Design',
     medium: 'Web design',
     description:
       'A café-style web application where users can browse menu items, customize drinks, and place a pickup order, designed with a clean, responsive interface.',
-    images: ['/images/moonlight-matcha-site.png'],
+    images: ['/images/moonlight-matcha-app.png'],
     figmaLink: '',
-    liveLink: '',
-    githubLink: 'https://github.com/jennyvooo/week2-moonlight-matcha.git',
+    liveLink: 'https://extraordinary-pithivier-c83be3.netlify.app/',
+    githubLink: 'https://github.com/jennyvooo/moonlight-matcha-order-app.git',
     featured: true
   }
 ];
