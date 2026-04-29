@@ -168,6 +168,18 @@ const projects = [
     liveLink: '',
     githubLink: '',
     featured: true
+  },
+  {
+    title: 'Moonlight Matcha',
+    category: 'UX/UI Design',
+    medium: 'Web design',
+    description:
+      'A café-style web application where users can browse menu items, customize drinks, and place a pickup order, designed with a clean, responsive interface.',
+    images: ['/images/moonlight-matcha-site.png'],
+    figmaLink: '',
+    liveLink: '',
+    githubLink: 'https://github.com/jennyvooo/week2-moonlight-matcha.git',
+    featured: true
   }
 ];
 
